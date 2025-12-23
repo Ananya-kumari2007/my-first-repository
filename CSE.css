@@ -1,0 +1,19 @@
+
+    .Box{
+         text-align: center;
+         text-transform: uppercase;
+         width: 20px;
+         padding:30px 20px;
+         margin: 20px;
+        color: forestgreen;
+    }
+    #CSE-13{
+            text-align: center;
+            text-transform: capitalize;
+            width: 20px;
+            padding: 10px 30px;
+            margin: 20px;
+            color: brown;
+    }
+
+    
